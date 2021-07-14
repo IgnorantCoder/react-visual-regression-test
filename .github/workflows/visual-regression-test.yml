@@ -1,0 +1,26 @@
+name: Visual Regression Test
+on: pull_request
+jobs:
+  test:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.17.0
+      - name: build storybook
+        run: |
+          npm ci
+          npm run build-storybook
+      - name: run loki
+        run: |
+          npx loki test --reactUri file:./storybook-static
+      - name: save diffs
+        if: ${{ failure() }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: "diffs"
+          path: "./.loki/difference/*"

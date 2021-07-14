@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Card Sample 1`] = `
+<div
+  className="sc-gKAaRy klrUXV"
+>
+  <div
+    className="sc-iCoGMd bKNqkH"
+  />
+  <div
+    className="sc-hKFxyN hOJzSx"
+  >
+    <div
+      className="sc-bdnxRM fxMUmS"
+    >
+      <span
+        className="sc-gtsrHT jXnkEw"
+      >
+        1234
+      </span>
+      <span
+        className="sc-gtsrHT jXnkEw"
+      >
+        5678
+      </span>
+      <span
+        className="sc-gtsrHT jXnkEw"
+      >
+        9012
+      </span>
+      <span
+        className="sc-gtsrHT jXnkEw"
+      >
+        3456
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-eCApnc YDNcF"
+  >
+    <div
+      className="sc-hKFxyN hOJzSx"
+    >
+      <div>
+        <span>
+          11
+        </span>
+        <span
+          className="sc-dlnjwi dzbxQk"
+        />
+        <span>
+          21
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-fujyAs fElnqY"
+  >
+    <div
+      className="sc-jSFjdj eNcdRz"
+    >
+      2,000
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/CardAmount Big Number 1`] = `
+<div
+  className="sc-jSFjdj eNcdRz"
+>
+  2,000,000
+</div>
+`;
+
+exports[`Storyshots Components/CardAmount Small Number 1`] = `
+<div
+  className="sc-jSFjdj eNcdRz"
+>
+  20
+</div>
+`;
+
+exports[`Storyshots Components/Emboss Alphabet 1`] = `
+<div
+  className="sc-hKFxyN hOJzSx"
+>
+  ABCD
+</div>
+`;
+
+exports[`Storyshots Components/Emboss Number 1`] = `
+<div
+  className="sc-hKFxyN hOJzSx"
+>
+  1234
+</div>
+`;
+
+exports[`Storyshots Components/Emboss Symbol 1`] = `
+<div
+  className="sc-hKFxyN hOJzSx"
+>
+  *-/
+</div>
+`;
+
+exports[`Storyshots Components/Expire December 1`] = `
+<div>
+  <span>
+    12
+  </span>
+  <span
+    className="sc-dlnjwi dzbxQk"
+  />
+  <span>
+    21
+  </span>
+</div>
+`;
+
+exports[`Storyshots Components/Expire January 1`] = `
+<div>
+  <span>
+    01
+  </span>
+  <span
+    className="sc-dlnjwi dzbxQk"
+  />
+  <span>
+    21
+  </span>
+</div>
+`;
+
+exports[`Storyshots Components/GoodThru Smaple 1`] = `
+<div
+  className="sc-eCApnc YDNcF"
+>
+  12/21
+</div>
+`;
+
+exports[`Storyshots Components/Pan Digits 16 1`] = `
+<div
+  className="sc-bdnxRM fxMUmS"
+>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    1234
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    5678
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    9012
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    3456
+  </span>
+</div>
+`;
+
+exports[`Storyshots Components/Pan Digits 19 1`] = `
+<div
+  className="sc-bdnxRM fxMUmS"
+>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    1234
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    5678
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    9012
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    3456
+  </span>
+  <span
+    className="sc-gtsrHT jXnkEw"
+  >
+    789
+  </span>
+</div>
+`;
+
+exports[`Storyshots Pages/Cards Sample 1`] = `
+<div
+  className="sc-pNWdM iVOdaF"
+>
+  <div
+    className="sc-gKAaRy klrUXV"
+  >
+    <div
+      className="sc-iCoGMd bKNqkH"
+    />
+    <div
+      className="sc-hKFxyN hOJzSx"
+    >
+      <div
+        className="sc-bdnxRM fxMUmS"
+      >
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          1234
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          5678
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          9012
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          3456
+        </span>
+      </div>
+    </div>
+    <div
+      className="sc-eCApnc YDNcF"
+    >
+      <div
+        className="sc-hKFxyN hOJzSx"
+      >
+        <div>
+          <span>
+            11
+          </span>
+          <span
+            className="sc-dlnjwi dzbxQk"
+          />
+          <span>
+            21
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fujyAs fElnqY"
+    >
+      <div
+        className="sc-jSFjdj eNcdRz"
+      >
+        2,000
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-gKAaRy klrUXV"
+  >
+    <div
+      className="sc-iCoGMd bKNqkH"
+    />
+    <div
+      className="sc-hKFxyN hOJzSx"
+    >
+      <div
+        className="sc-bdnxRM fxMUmS"
+      >
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          6543
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          2109
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          8765
+        </span>
+        <span
+          className="sc-gtsrHT jXnkEw"
+        >
+          4321
+        </span>
+      </div>
+    </div>
+    <div
+      className="sc-eCApnc YDNcF"
+    >
+      <div
+        className="sc-hKFxyN hOJzSx"
+      >
+        <div>
+          <span>
+            11
+          </span>
+          <span
+            className="sc-dlnjwi dzbxQk"
+          />
+          <span>
+            21
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fujyAs fElnqY"
+    >
+      <div
+        className="sc-jSFjdj eNcdRz"
+      >
+        200,000
+      </div>
+    </div>
+  </div>
+</div>
+`;
