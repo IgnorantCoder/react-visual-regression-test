@@ -25,7 +25,7 @@ const Container = styled.div`
 `;
 
 const PanChunk = styled.span`
-    font-size: 100%;
+    font-size: 120%;
     letter-spacing: 0.1rem;
     padding-right: 10px;
 `;
